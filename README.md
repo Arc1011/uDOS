@@ -48,10 +48,10 @@ Input is buffered from the serial connection and parsed line-by-line. Commands a
 
 ## Planned Features
 
-- EEPROM support
 - I2C interface
 - Date cmd
 - neofetch cmd
+- if/else , while , for in bat
 
 # Contributors
 

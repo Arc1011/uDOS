@@ -2,8 +2,10 @@
 
 A DOS-like shell and RAM filesystem for Arduino UNO R3. Write files, control GPIO pins, read sensors, and run simple scripts all from the serial terminal.
 
+<img width="769" height="634" alt="66" src="https://github.com/user-attachments/assets/fb2a7a0e-9396-4087-8f13-389d80461e4d" />
 
-# Commands (26):
+
+# Commands (25):
 
 - `dir`
 - `cd`
@@ -50,6 +52,10 @@ Input is buffered from the serial connection and parsed line-by-line. Commands a
 - I2C interface
 - Date cmd
 - neofetch cmd
+
+# Contributors
+
+Arc1011 , PPPDUD , Chamalava; the code is based on KernelUNO.
 
 ## License
 
